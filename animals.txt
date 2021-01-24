@@ -1,3 +1,4 @@
-Deer
-Wolf
-Fox
+Deers
+Wolves
+Foxes
+Lions
